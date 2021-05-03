@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-<a style="display:block;text-align:center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=marcelarie&show_icons=true&theme=gruvbox" />
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img  align="center" style="display:block;text-align:center" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=marcelarie&show_icons=true&theme=gruvbox" />
 </a>
