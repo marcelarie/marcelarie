@@ -1,22 +1,12 @@
-### Hi there 👋
+My name is Marcel and I'm a 25 y/o software developer from Barcelona, Spain.   
 
-<!--
-**marcelarie/marcelarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My journey as a programmer started recently, so there are lots of things still to learn.
+I work with React and TypeScript for my Frontend projects, and Node.JS,  Rust or Perl for the backend and CLI programs.
 
-Here are some ideas to get you started:
+#### What I do:  
+- 🦾 I'm currently working at [Soy Super](https://github.com/soysuper) as a backend developer and systems admin.   
+- 🌱 I'm learning Rust and reinforcing my low level knowledge to create some really cool projects in the future :).
+- 👯 I’m looking to collaborate on the Linux kernel and the Neovim text editor, BIG fan of both.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" style="display:block;text-align:center" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=marcelarie&show_icons=true&theme=gruvbox" />
-</a>
+mail: [ googlillo@gmail.com ](googlillo@gmail.com)   
+blog: [marcelarie.com](https://www.marcelarie.com)
