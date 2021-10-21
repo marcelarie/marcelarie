@@ -8,17 +8,7 @@ LinkedIn:
 [www.linkedin.com/in/marcelarie](https://www.linkedin.com/in/marcelarie)  
 GitHub: [www.github.com/marcelarie](https://www.github.com/marcelarie)
 
-## Education
-
-**Assembler School,** Barcelona, Spain  
-Intens and practical master that gives a bird's-eye view of the world of
-software development.<br> _Master of Computer Engineering,
-[Computer Engineering](https://en.assemblerschool.com/home/full-stack-developer-program)_,
-2020--2021
-
 ## Software Skills
-
-_Working knowledge_
 
 -   **Main languages:** Rust 💕, Perl, Typescript, Javascript, Bash, Sass, PHP
 -   **Databases:** SQL, PostgreSQL, MongoDB, Redis
@@ -41,12 +31,20 @@ _Working knowledge_
 
 ## Professional Experience
 
-**Soy Super.,** Barcelona, Spain  
+**Soy Super,** Barcelona, Spain  
 _Backend developer, System Administration_, 2021 -- actuality
 
 -   Designed, implemented, and tested web crawlers with Perl and Javascript
 -   Mantain and manage the main brain and workers of the system
 -   Improve and extend the bussiness frameworks
+
+## Education
+
+**Assembler School,** Barcelona, Spain  
+Intens and practical master that gives a bird's-eye view of the world of
+software development.<br> _Master of Computer Engineering,
+[Computer Engineering](https://en.assemblerschool.com/home/full-stack-developer-program)_,
+2020--2021
 
 ## Languages
 
