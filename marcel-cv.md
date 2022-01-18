@@ -32,7 +32,7 @@ GitHub: [www.github.com/marcelarie](https://www.github.com/marcelarie)
 ## Professional Experience
 
 **Soy Super,** Barcelona, Spain  
-_Backend developer, System Administration_, 2021 -- actuality
+_Backend developer, System Administration_, 2021 -- present
 
 -   Designed, implemented, and tested web crawlers with Perl and Javascript
 -   Mantain and manage the main brain and workers of the system
