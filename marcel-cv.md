@@ -35,7 +35,7 @@ GitHub: [www.github.com/marcelarie](https://www.github.com/marcelarie)
 _Backend developer, System Administration_, 2021 -- present
 
 -   Designed, implemented, and tested web crawlers with Perl and Javascript
--   Mantain and manage the main brain and workers of the system
+-   Mantain and manage the infrastructure of the system
 -   Improve and extend the bussiness frameworks
 
 ## Education
