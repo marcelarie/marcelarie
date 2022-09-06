@@ -6,13 +6,14 @@ Node.JS, Rust or Perl for the backend and CLI programs.
 
 #### What I do:
 
--   🦾 I'm currently working at [Soy Super](https://github.com/soysuper) as a
-    backend developer and systems admin.
+-   🦾 I'm currently working at [Stuart](https://github.com/StuartApp) as a
+    frontend developer.
 -   🌱 I'm learning Rust and reinforcing my low level knowledge to create some
     really cool projects in the future :).
 -   💯 I’m looking to collaborate on the Linux kernel and the Neovim text
     editor, BIG fan of both.
 
-mail: [ googlillo@gmail.com ](googlillo@gmail.com)  
-blog: [marcelarie.com](https://www.marcelarie.com)  
-cv: [english](./marcel-cv.md)
+mail: [ googlillo@gmail.com ](googlillo@gmail.com)\
+blog: [marcelarie.com](https://www.marcelarie.com)\
+cv: [english](./marcel-cv.md)\
+linkedin: [/in/marcelarie](https://www.linkedin.com/in/marcelarie/)
