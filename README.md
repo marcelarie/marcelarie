@@ -1,4 +1,4 @@
-My name is Marcel and I'm a 26 y/o software developer from Barcelona, Spain.
+My name is Marcel and I'm a 27 y/o software developer from Barcelona, Spain.
 
 My journey as a programmer started recently, so there are lots of things still
 to learn. I work with React and TypeScript for my Frontend projects, and
