@@ -70,4 +70,4 @@ October 2020 - June 2021
 
 - Cycling, Running, Gymnastic rings, Climbing
 - Linux, Cryptos, Computer System Administration, Keyboards, Plugins
-- Cinema ( mainly Asian and European right now )
+- Cinema (mainly Asian and European right now)
