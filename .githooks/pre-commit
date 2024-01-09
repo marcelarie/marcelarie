@@ -1,0 +1,17 @@
+#!/bin/sh
+
+CV_FILE_NAME="marcel-cv.typ"
+
+# check if the command typst is available
+if ! [ -x "$(command -v typst)" ]; then
+	echo 'Error: typst is not installed.' >&2
+	exit 1
+fi
+
+## check if the command `typst compile` returns an error
+if ! typst compile $CV_FILE_NAME; then
+	echo 'Error: typst compilation failed.' >&2
+	exit 1
+fi
+
+echo "Typst file compilation successful"
