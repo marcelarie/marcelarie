@@ -15,5 +15,5 @@ Node.JS, Rust or Perl for the backend and CLI programs.
 
 mail: [ googlillo@gmail.com ](googlillo@gmail.com)\
 blog: [marcelarie.com](https://www.marcelarie.com)\
-cv: [english](./marcel-cv.md)\
+cv: [english md](./marcel-cv.md) + [pdf 📄](/marcel-cv.pdf)\
 linkedin: [/in/marcelarie](https://www.linkedin.com/in/marcelarie/)

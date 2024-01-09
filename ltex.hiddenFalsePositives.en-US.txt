@@ -1,0 +1,3 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmail: googlillo@gmail.com blog: marcelarie.com cv: english md + pdf 📄 linkedin: /in/marcelarie\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qmail: googlillo@gmail.com blog: marcelarie.com cv: english md + pdf 📄 linkedin: /in/marcelarie\\E$"}
+{"rule":"LINKEDIN","sentence":"^\\Qmail: googlillo@gmail.com blog: marcelarie.com cv: english md + pdf 📄 linkedin: /in/marcelarie\\E$"}
