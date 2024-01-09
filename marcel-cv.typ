@@ -6,7 +6,7 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcelarie)
 GitHub: [GitHub](https://www.github.com/marcelarie)
 ==== Technical Skills and Work Experience
 ===== Software Skills
-- Main languages: Rust, Perl, Typescript, JavaScript, Bash, Sass, PHP
+- __Main languages__: Rust, Perl, Typescript, JavaScript, Bash, Sass, PHP
 - Databases: SQL, PostgreSQL, MongoDB, Redis
 - System and administration: Linux, Git (_I love git too but who doesn't_), Docker, Neovim ( _Can't use anything else really_ ), Nginx, Deno, Node, AWS
 - Frameworks and libraries: Rocket rs, Tokio rs, Express.js, Firebase, Ract, Redux, ReactQuery

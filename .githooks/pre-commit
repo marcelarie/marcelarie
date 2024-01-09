@@ -2,6 +2,7 @@
 
 CV_FILE_NAME="marcel-cv.typ"
 
+echo "Running pre-commit hook"
 # check if the command typst is available
 if ! [ -x "$(command -v typst)" ]; then
 	echo 'Error: typst is not installed.' >&2
@@ -15,3 +16,5 @@ if ! typst compile $CV_FILE_NAME; then
 fi
 
 echo "Typst file compilation successful"
+git add $CV_FILE_NAME
+exit 0
