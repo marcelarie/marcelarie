@@ -3,16 +3,18 @@
 CV_FILE_NAME="marcel-cv"
 TYPST_FILE_NAME="$CV_FILE_NAME.typ"
 
-echo "Running pre-commit hook"
-# check if the command typst is available
+printf "Running pre-commit hook\n"
 if ! [ -x "$(command -v typst)" ]; then
 	echo 'Error: typst is not installed.' >&2
 	exit 1
 fi
 
-## check if the command `typst compile` returns an error
-if ! typst compile $TYPST_FILE_NAME; then
-	echo 'Error: typst compilation failed.' >&2
+COMPILE_OUTPUT=$(typst compile $TYPST_FILE_NAME 2>&1)
+
+if echo "$COMPILE_OUTPUT" | grep -q "warning\|error"; then
+	printf "Typst file compilation failed.\n"
+	echo "--- OUTPUT ---"
+	printf '%s\n' "$COMPILE_OUTPUT"
 	exit 1
 fi
 
