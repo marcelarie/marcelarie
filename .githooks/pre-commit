@@ -1,6 +1,7 @@
 #!/bin/sh
 
-CV_FILE_NAME="marcel-cv.typ"
+CV_FILE_NAME="marcel-cv"
+TYPST_FILE_NAME="$CV_FILE_NAME.typ"
 
 echo "Running pre-commit hook"
 # check if the command typst is available
@@ -10,11 +11,11 @@ if ! [ -x "$(command -v typst)" ]; then
 fi
 
 ## check if the command `typst compile` returns an error
-if ! typst compile $CV_FILE_NAME; then
+if ! typst compile $TYPST_FILE_NAME; then
 	echo 'Error: typst compilation failed.' >&2
 	exit 1
 fi
 
 echo "Typst file compilation successful"
-git add $CV_FILE_NAME
+git add "$CV_FILE_NAME.pdf"
 exit 0
