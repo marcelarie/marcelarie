@@ -1,4 +1,4 @@
-= Marcel Arie - Curriculum Vitae
+= Marcel Arie - Fullstack Developer
 == Contact Information
 Mobile: +34 647 147 012 \
 Email: #link("googlillo@gmail.com") \
