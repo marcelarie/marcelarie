@@ -11,7 +11,7 @@ Node.JS, Rust or Perl for the backend and CLI programs.
 -   🌱 I'm learning Rust and reinforcing my low level knowledge to create some
     really cool projects in the future :).
 -   💯 I’m looking to collaborate on the Linux kernel and the Neovim text
-    editor, BIG fan of both.
+    editor.
 
 mail: [ googlillo@gmail.com ](googlillo@gmail.com)\
 blog: [marcelarie.com](https://www.marcelarie.com)\
