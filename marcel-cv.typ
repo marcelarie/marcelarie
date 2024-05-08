@@ -1,55 +1,132 @@
-= Marcel Arie - Fullstack Developer
-== Contact Information
-Mobile: +34 647 147 012 \
-Email: #link("googlillo@gmail.com") \
-LinkedIn: #link("https://www.linkedin.com/in/marcelarie") \
-GitHub: #link("https://www.github.com/marcelarie") \
+#import "@preview/modern-cv:0.3.0": *
 
-== Technical Skills and Work Experience
-=== Professional Experience
-*Stuart*, Barcelona, Spain \
-*Fullstack developer* \
-March 2022 - present \
-- Designed and implemented responsive web components and functionalities \
-- Led the migration to a micro-frontend architecture to enhance scalability and maintainability \
-- Developed and maintained server-side rendered (SSR) applications using an in-house framework \
-- Collaborated with cross-functional teams to troubleshoot and resolve complex technical issues \
-- Ensured code quality and efficiency, consistently meeting project deadlines \
+#show: resume.with(
+  author: (
+    firstname: "Marcel",
+    lastname: "Manzanares",
+    email: "googlillo@gmail.com",
+    phone: "(+34) 647 147 012",
+    github: "marcelarie",
+    linkedin: "marcelarie",
+    address: "Barcelona",
+    positions: (
+      "Software Engineer",
+    ),
+  ),
+  date: datetime.today().display(),
+  language: "en",
+  colored-headers: true,
+)
 
-*Soy Super*, Barcelona, Spain \
-*Backend developer, System Administration* \
-July 2021 - March 2022 \
-- Developed and maintained web crawlers using Perl and Typescript, enhancing data aggregation capabilities \
-- Managed system infrastructure, ensuring high availability and performance \
-- Extended and optimized business frameworks to improve functionality and user experience \
+\
 
-=== Education
-Assembler School, Barcelona, Spain \
-*Master of Computer Engineering - #link("https://en.assemblerschool.com/home/full-stack-developer-program")* \
-October 2020 - June 2021 \
-Intensive and practical master that gives a bird's-eye view of the world of software development.
+= Experience
 
-=== Software Skills
-- Main Languages: Typescript, PHP, Ruby, Rust, Go, Bash, Perl \
-- Databases: SQL, PostgreSQL, GraphQL, MongoDB, Redis \
-- System and administration: Linux, Git, Docker, Neovim, Nginx, Deno, Node, AWS \
-- Frameworks and libraries: Express.js, Firebase, React, Redux, ReactQuery, Rocket rs, Tokio rs \
-- Software & Architecture: Unit & Integration testing, System automation, Scripting, Pipelines, FP, OOP, DOP, RESTfull API, Microservices, DDD \
+#resume-entry(
+  title: "Stuart - Fullstack developer",
+  location: "Barcelona, Spain",
+  date: "2022 - Present",
+  description: "B2B delivery platform",
+)
 
-=== Soft Skills
-- Positive and active \
-- Problem solver \
-- Imaginative and creative \
-- Empathic and sociable \
-- Good conversational skills \
-- Committed \
+#resume-item[
+ - Designed and implemented responsive web components and functionalities.
+ - Led the migration to a micro-frontend architecture to enhance scalability
+   and maintainability.
+ - Developed and maintained server-side rendered (SSR) applications using an
+   in-house framework.
+ - Collaborated with cross-functional teams to troubleshoot and resolve complex
+   technical issues.
+ - Ensured code quality and efficiency, consistently meeting project deadlines.
+]
 
-=== Languages
-- English: Professional Proficiency \
-- Spanish: Native \
-- Catalan: Native \
+#resume-entry(
+  title: "Soy Super - Backend developer, Sys Admin",
+  location: "Barcelona Spain",
+  date: "2021 - 2022",
+  description: "Supermarket Comparator",
+)
 
-=== Activities and Interests
-- Running, Gymnastic rings, Climbing \
-- Linux, Cryptos, System Administration, Keyboards, Plugins \
-- Cinema, specially enthusiastic about Korean and German films \
+#resume-item[
+ - Developed and maintained web crawlers using Perl and Typescript, enhancing
+   data aggregation capabilities.
+ - Managed system infrastructure, ensuring high availability and performance.
+ - Extended and optimized business frameworks to improve functionality and user
+   experience.
+]
+
+\
+
+= Projects
+
+#resume-entry(
+  title: "Rust GitHub CLI tool",
+  location: [#github-link("marcelarie/git-tellme")],
+  date: "Dec 2022",
+  description: "Developer",
+)
+
+#resume-item[
+  - Designed and implemented a CLI tool to check for GH notifications.
+  - Check and subscribe to users new changes and repositories
+]
+
+#resume-entry(
+  title: "Automatic directory runner",
+  location: github-link("marcelarie/rund"),
+  date: "May 2024",
+  description: "Developer",
+)
+
+#resume-item[
+  - Implemented multiple shell hooks that run specific scripts when changing a directory.
+  - Similarly to direnv the user needs to validate the scripts and will run when entering on a directory for the first time
+]
+
+\
+
+= Skills
+
+#resume-skill-item(
+  "Languages",
+  (strong("TypeScript"), strong("PHP"), strong("Ruby"), strong("Lua"), "Rust", "Go", "Bash", "Perl"),
+)
+#resume-skill-item(
+  "Databases",
+  (strong("SQL"), strong("GraphQL"), strong("Redis"), "MongoDB", "PostgreSQL"),
+)
+#resume-skill-item(
+  "Systems and CI",
+  (strong("Linux"), strong("Git"), strong("Docker"), strong("Vim"), "Nginx", "AWS"),
+)
+#resume-skill-item(
+  "Software skills",
+  (strong("Unit and E2E testing"), strong("Scripting"), strong("Pipelines"), strong("FP"), strong("OOP"), strong("REST"), strong("Microservices"), "DDD"),
+)
+#resume-skill-item("Spoken Languages", (strong("Spanish"), strong("Catalan"), strong("English")))
+#resume-skill-item(
+    "Soft Skills",
+    (
+        strong("Positive and active"),
+        strong("Problem solver"),
+        strong("Emphatic and sociable"),
+        strong("Good conversation skills"),
+        strong("Commited")
+    )
+)
+
+\
+
+= Education
+
+#resume-entry(
+  title: "Assembler School",
+  location: "Barcelona, Spain",
+  date: "October 2020 - June 2021",
+  description: "Master of Computer Engineering",
+)
+
+#resume-item[
+Intensive and practical master that gives a bird's-eye view of the world of
+software development.
+]

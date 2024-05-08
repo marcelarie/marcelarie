@@ -46,7 +46,7 @@ software development.\\
 
 ### Software Skills
 
-- **Main Languages:** Typescript, PHP, Ruby, Rust ❤️, Go, Bash, Perl
+- **Main Languages:** Typescript, PHP, Ruby, Rust ❤️, Lua, Go, Bash, Perl
 - **Databases:** SQL, PostgreSQL, GraphQL, MongoDB, Redis
 - **System and administration:** Linux ❤️, Git, Docker, Neovim ( _Can't use anything else really_ ), Nginx,
   Deno, Node, AWS
