@@ -15,6 +15,6 @@ backend and CLI programs.
 ## Contact Me:
 
 - email: [googlillo@gmail.com](googlillo@gmail.com)
-- blog: [marcelarie.com](https://www.marcelarie.com)
+- blog: [marcelarie.xyz](https://marcelarie.xyz/)
 - cv: [markdown](./marcel-cv.md) or [pdf](/marcel-cv.pdf)
 - linkedin: [/in/marcelarie](https://www.linkedin.com/in/marcelarie/)
