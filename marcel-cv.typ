@@ -1,4 +1,4 @@
-#import "@preview/modern-cv:0.3.0": *
+#import "@preview/modern-cv:0.7.0": *
 
 #show: resume.with(
   author: (
@@ -60,22 +60,22 @@
 = Projects
 
 #resume-entry(
-  title: "Rust GitHub CLI tool",
-  location: [#github-link("marcelarie/git-tellme")],
-  date: "Dec 2022",
-  description: "Developer",
+  title: "Nu alias converter",
+  location: [#github-link("marcelarie/nu-alias-converter")],
+  date: "Oct 2024",
+  description: "Rust",
 )
 
 #resume-item[
-  - Designed and implemented a CLI tool to check for GH notifications.
-  - Check and subscribe to users new changes and repositories
+  - Convert other shell aliases to Nushell
+  - Extract the tokens using Treesitter and validate with nu-parser
 ]
 
 #resume-entry(
   title: "Automatic directory runner",
   location: github-link("marcelarie/rund"),
   date: "May 2024",
-  description: "Developer",
+  description: "Shell",
 )
 
 #resume-item[
