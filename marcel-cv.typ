@@ -89,7 +89,7 @@
 
 #resume-skill-item(
   "Languages",
-  (strong("TypeScript"), strong("PHP"), strong("Ruby"), strong("Lua"), "Rust", "Go", "Bash", "Perl"),
+  (strong("TypeScript"), strong("PHP"), strong("Ruby"), strong("Rust"), "Lua", "Go", "Bash", "Perl"),
 )
 #resume-skill-item(
   "Databases",
