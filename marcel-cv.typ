@@ -9,9 +9,7 @@
     github: "marcelarie",
     linkedin: "marcelarie",
     address: "Barcelona",
-    positions: (
-      "Software Engineer",
-    ),
+    positions: ("Software Engineer",),
   ),
   date: datetime.today().display(),
   language: "en",
@@ -30,14 +28,14 @@
 )
 
 #resume-item[
- - Designed and implemented responsive web components and functionalities.
- - Led the migration to a micro-frontend architecture to enhance scalability
-   and maintainability.
- - Developed and maintained server-side rendered (SSR) applications using an
-   in-house framework.
- - Collaborated with cross-functional teams to troubleshoot and resolve complex
-   technical issues.
- - Ensured code quality and efficiency, consistently meeting project deadlines.
+  - Designed and implemented responsive web components and functionalities.
+  - Led the migration to a micro-frontend architecture to enhance scalability
+    and maintainability.
+  - Developed and maintained server-side rendered (SSR) applications using an
+    in-house framework.
+  - Collaborated with cross-functional teams to troubleshoot and resolve complex
+    technical issues.
+  - Ensured code quality and efficiency, consistently meeting project deadlines.
 ]
 
 #resume-entry(
@@ -48,11 +46,11 @@
 )
 
 #resume-item[
- - Developed and maintained web crawlers using Perl and Typescript, enhancing
-   data aggregation capabilities.
- - Managed system infrastructure, ensuring high availability and performance.
- - Extended and optimized business frameworks to improve functionality and user
-   experience.
+  - Developed and maintained web crawlers using Perl and Typescript, enhancing
+    data aggregation capabilities.
+  - Managed system infrastructure, ensuring high availability and performance.
+  - Extended and optimized business frameworks to improve functionality and user
+    experience.
 ]
 
 \
@@ -89,7 +87,16 @@
 
 #resume-skill-item(
   "Languages",
-  (strong("TypeScript"), strong("PHP"), strong("Ruby"), strong("Rust"), "Lua", "Go", "Bash", "Perl"),
+  (
+    strong("TypeScript"),
+    strong("PHP"),
+    strong("Ruby"),
+    strong("Rust"),
+    "Lua",
+    "Go",
+    "Bash",
+    "Perl",
+  ),
 )
 #resume-skill-item(
   "Databases",
@@ -97,22 +104,41 @@
 )
 #resume-skill-item(
   "Systems and CI",
-  (strong("Linux"), strong("Git"), strong("Docker"), strong("Vim"), "Nginx", "AWS"),
+  (
+    strong("Linux"),
+    strong("Git"),
+    strong("Docker"),
+    strong("Vim"),
+    "Nginx",
+    "AWS",
+  ),
 )
 #resume-skill-item(
   "Software skills",
-  (strong("Unit and E2E testing"), strong("Scripting"), strong("Pipelines"), strong("FP"), strong("OOP"), strong("REST"), strong("Microservices"), "DDD"),
+  (
+    strong("Unit and E2E testing"),
+    strong("Scripting"),
+    strong("Pipelines"),
+    strong("FP"),
+    strong("OOP"),
+    strong("REST"),
+    strong("Microservices"),
+    "DDD",
+  ),
 )
-#resume-skill-item("Spoken Languages", (strong("Spanish"), strong("Catalan"), strong("English")))
 #resume-skill-item(
-    "Soft Skills",
-    (
-        strong("Positive and active"),
-        strong("Problem solver"),
-        strong("Emphatic and sociable"),
-        strong("Good conversation skills"),
-        strong("Commited")
-    )
+  "Spoken Languages",
+  (strong("Spanish"), strong("Catalan"), strong("English")),
+)
+#resume-skill-item(
+  "Soft Skills",
+  (
+    strong("Positive and active"),
+    strong("Problem solver"),
+    strong("Emphatic and sociable"),
+    strong("Good conversation skills"),
+    strong("Commited"),
+  ),
 )
 
 \
@@ -127,6 +153,6 @@
 )
 
 #resume-item[
-Intensive and practical master that gives a bird's-eye view of the world of
-software development.
+  Intensive and practical master that gives a bird's-eye view of the world of
+  software development.
 ]
