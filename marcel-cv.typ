@@ -23,7 +23,7 @@
 #resume-entry(
   title: "Stuart - Fullstack developer",
   location: "Barcelona, Spain",
-  date: "2022 - Present",
+  date: "2022 - 2024",
   description: "B2B delivery platform",
 )
 

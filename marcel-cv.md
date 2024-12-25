@@ -14,7 +14,7 @@ GitHub: [/marcelarie](https://www.github.com/marcelarie)
 
 **Stuart,** Barcelona, Spain\
 _Fullstack developer_\
-March 2022 - present
+March 2022 - December 2024
 
 - Designed and implemented responsive web components and functionalities.
 - Led the migration to a micro-frontend architecture to enhance scalability

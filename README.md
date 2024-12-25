@@ -5,8 +5,8 @@ backend and CLI programs.
 
 ## What I do:
 
-- 🦾 I'm currently working at [Stuart](https://github.com/StuartApp) as a
-  Fullstack developer.
+- 🦾 I'm currently working at [Worldsensing](https://github.com/StuartApp) as a
+  Frontend developer.
 - 🌱 I'm learning Rust and reinforcing my low level knowledge to create some
   really cool projects in the future.
 - 💯 I am an active collaborator in various open source projects, constantly

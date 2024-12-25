@@ -13,7 +13,7 @@ GitHub: [/marcelarie](https://www.github.com/marcelarie)
 
 **Stuart,** Barcelona, España\
 _Desarrollador Fullstack_\
-Marzo 2022 - presente
+Marzo 2022 - Diciembre 2024
 
 - Diseño e implementación de componentes web responsivos y funcionalidades avanzadas.
 - Dirección en la transición hacia una arquitectura de micro-frontends para
