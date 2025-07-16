@@ -5,7 +5,7 @@ for backend and CLI programs.
 
 ## What I do:
 
-- I'm currently working at [Worldsensing](https://github.com/StuartApp) as a
+- I'm currently working at [Worldsensing](https://www.worldsensing.com/) as a
   Fullstack developer.
 - I'm learning Rust and reinforcing my low level knowledge to create some
   really cool projects in the future.
