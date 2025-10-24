@@ -21,6 +21,19 @@
 = Experience
 
 #resume-entry(
+  title: "Worldsensing - Software Engineer",
+  location: "Barcelona, Spain",
+  date: "Dec 2024 - Present",
+  description: "Industrial IoT",
+)
+
+#resume-item[
+  - Building edge monitoring features for large-scale industrial IoT deployments.
+  - Shipping client and backend bits for the Worldsensing CMT cloud dashboard.
+  - Keeping a bunch of internal services wired up so customers get what they need.
+]
+
+#resume-entry(
   title: "Stuart - Fullstack developer",
   location: "Barcelona, Spain",
   date: "2022 - 2024",

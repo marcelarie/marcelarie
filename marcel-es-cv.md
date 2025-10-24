@@ -11,6 +11,14 @@ GitHub: [/marcelarie](https://www.github.com/marcelarie)
 
 ### Experiencia Profesional
 
+**Worldsensing,** Barcelona, España\
+_Ingeniero de Software_\
+Diciembre 2024 - Actualidad
+
+- Montando funcionalidades de monitorización para despliegues IoT industriales enormes.
+- Llevo tanto el cliente como el backend del panel en la nube CMT de Worldsensing.
+- Mantengo a raya varios servicios internos para que los clientes tengan lo que necesitan.
+
 **Stuart,** Barcelona, España\
 _Desarrollador Fullstack_\
 Marzo 2022 - Diciembre 2024
