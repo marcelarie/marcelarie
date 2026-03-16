@@ -8,7 +8,7 @@ In my free time I also contribute to multiple open source projects, will have
 this info in the "Projects" section in the near future.
 
 Also in case you are interested, here are my RSS subscriptions as an [OPML file](https://marcel.cool/opml),
-it comes fresh and direct from my miniflux server. Enjoy!
+it comes fresh and direct from my miniflux server.
 
 ## Contact Me:
 
