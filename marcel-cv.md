@@ -3,7 +3,7 @@
 ## Contact Information
 
 Mobile: [+34 647 147 012](tel:+34647147012)\
-Email: [googlillo@gmail.com](mailto:googlillo@gmail.com)\
+Email: [me@marcel.cool](mailto:me@marcel.cool)\
 LinkedIn:
 [/in/marcelarie](https://www.linkedin.com/in/marcelarie)\
 GitHub: [/marcelarie](https://www.github.com/marcelarie)

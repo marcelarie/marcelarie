@@ -4,7 +4,7 @@
   author: (
     firstname: "Marcel",
     lastname: "Manzanares",
-    email: "googlillo@gmail.com",
+    email: "me@marcel.cool",
     phone: "(+34) 647 147 012",
     github: "marcelarie",
     linkedin: "marcelarie",
