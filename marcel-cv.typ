@@ -6,7 +6,7 @@
     lastname: "Manzanares",
     email: "googlillo@gmail.com",
     phone: "(+34) 647 147 012",
-    github: "marcelarie",
+    github: "themarcel",
     linkedin: "marcelarie",
     address: "Barcelona",
     positions: ("Software Engineer",),

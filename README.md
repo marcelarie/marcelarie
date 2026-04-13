@@ -14,7 +14,7 @@ for backend and CLI programs.
 
 ## Contact Me:
 
-- email: [googlillo@gmail.com](googlillo@gmail.com)
-- blog: [marcelarie.xyz](https://marcelarie.xyz/)
+- email: [me@marcel.cool](me@marcel.cool)
+- blog: [marcel.cool](https://marcel.cool/)
 - cv: [markdown](./marcel-cv.md) or [pdf](/marcel-cv.pdf)
 - linkedin: [/in/marcelarie](https://www.linkedin.com/in/marcelarie/)

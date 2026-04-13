@@ -5,7 +5,7 @@
 Móvil: [+34 647 147 012](tel:+34647147012)\
 Correo electrónico: [googlillo@gmail.com](mailto:googlillo@gmail.com)\
 LinkedIn: [/in/marcelarie](https://www.linkedin.com/in/marcelarie)\
-GitHub: [/marcelarie](https://www.github.com/marcelarie)
+GitHub: [/themarcel](https://www.github.com/themarcel)
 
 ## Habilidades Técnicas y Experiencia Laboral
 
