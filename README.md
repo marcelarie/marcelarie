@@ -15,4 +15,4 @@ it comes fresh and direct from my miniflux server.
 - email: [me@marcel.cool](me@marcel.cool)
 - blog: [marcel.cool](https://marcel.cool/)
 - cv: [markdown](./marcel-cv.md) or [pdf](/marcel-cv.pdf)
-- linkedin: [/in/marcelarie](https://www.linkedin.com/in/marcelarie/)
+- linkedin: [/in/marcelmanzanares](https://www.linkedin.com/in/marcelmanzanares/)

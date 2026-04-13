@@ -4,7 +4,7 @@
 
 Móvil: [+34 647 147 012](tel:+34647147012)\
 Correo electrónico: [me@marcel.cool](mailto:me@marcel.cool)\
-LinkedIn: [/in/marcelarie](https://www.linkedin.com/in/marcelarie)\
+LinkedIn: [/in/marcelmanzanares](https://www.linkedin.com/in/marcelmanzanares)\
 GitHub: [/themarcel](https://www.github.com/themarcel)
 
 ## Habilidades Técnicas y Experiencia Laboral

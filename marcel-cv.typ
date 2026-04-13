@@ -7,7 +7,7 @@
     email: "me@marcel.cool",
     phone: "(+34) 647 147 012",
     github: "themarcel",
-    linkedin: "marcelarie",
+    linkedin: "marcelmanzanares",
     address: "Barcelona",
     positions: ("Software Engineer",),
   ),
@@ -72,7 +72,7 @@
 
 #resume-entry(
   title: "Nu alias converter",
-  location: [#github-link("marcelarie/nu-alias-converter")],
+  location: [#github-link("themarcel/nu-alias-converter")],
   date: "Oct 2024",
   description: "Rust",
 )
@@ -84,7 +84,7 @@
 
 #resume-entry(
   title: "Automatic directory runner",
-  location: github-link("marcelarie/rund"),
+  location: github-link("themarcel/rund"),
   date: "May 2024",
   description: "Shell",
 )
